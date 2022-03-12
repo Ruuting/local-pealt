@@ -6,13 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.17.3"
-  } 
+  "keywords": [
+    "API",
+    "Chemicals"
+  ],
+  "author": "Ingmar",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
     "fs": "0.0.1-security",
