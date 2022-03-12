@@ -1,16 +1,21 @@
 {
-  "name": "api",
+  "name": "chemistry-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "This a Chemistry API,which will provide details regarding elements",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+    "start":"node index.js"
+    
+    
   },
   "keywords": [
     "API",
-    "Chemicals"
+    "Chemicals",
+    "Elements"
   ],
-  "author": "Ingmar",
+  "author": "Aanisha Bhattacharyya",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
